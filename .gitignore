@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Internal Tools and Snapshots
+collect_gholabjadooi_snapshot.*
+PRODUCT_ENTRY_SOP.md
+snapshot_gholabjadooi*.txt
